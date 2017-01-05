@@ -1,0 +1,6 @@
+c:\users\sieyk\documents\visual studio 2012\Projects\LifeSim\LifeSim\bin\Debug\LifeSim.exe.config
+c:\users\sieyk\documents\visual studio 2012\Projects\LifeSim\LifeSim\bin\Debug\LifeSim.exe
+c:\users\sieyk\documents\visual studio 2012\Projects\LifeSim\LifeSim\bin\Debug\LifeSim.pdb
+c:\users\sieyk\documents\visual studio 2012\Projects\LifeSim\LifeSim\obj\Debug\LifeSim.csprojResolveAssemblyReference.cache
+c:\users\sieyk\documents\visual studio 2012\Projects\LifeSim\LifeSim\obj\Debug\LifeSim.exe
+c:\users\sieyk\documents\visual studio 2012\Projects\LifeSim\LifeSim\obj\Debug\LifeSim.pdb
